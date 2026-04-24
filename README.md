@@ -1,7 +1,7 @@
 # ME5406 Project
 ## Overview
 
-This project trains a UR10e robotic arm (4-DoF, wrist joints locked) to navigate its end-effector through a narrow aperture in a rigid plate and reach a target on the far side, using Proximal Policy Optimization (PPO) in NVIDIA Isaac Lab.
+This project trains a FRANKA robotic arm (6-DoF, wrist joints locked) to navigate its end-effector through a narrow aperture in a rigid plate and reach a target on the far side。
 
 ## Structure
 
